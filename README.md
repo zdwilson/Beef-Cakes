@@ -1,7 +1,15 @@
 Beef-Cakes
 ==========
 
-A recipe for a delicious beefy snack.
+A recipe for a delicious beefy snack.  Beef Cakes are basically meat loaf cooked in single serving cup cake tins.  However, they allow a greater level of customization with toppings and ingredients.
+
+Rationale
+----------
+I am giving a presentation soon to demonstrate Git to an audience that is composed of both developers and analysts.  Using a recipe will give me an opportunity to represent a developer-centric topic to non-developers.
+
+Cooking and Programming have many similarities. They both have inputs, outputs, unit tests and defined processes. In addition, just like software it is a cultural norm to share and modify recipes.  Finally, like the private software industry, most food producers never share their recipe.
+
+Feel free to fork this repository and make your own rendition.  I will try out any pull requests.
 
 Ingredients
 ----------
@@ -10,7 +18,7 @@ Ingredients
 - 1 package French and Onion Soup mix
 - 1 Diced Onion
 - 2 Minced Garlic Cloves
-- 3 Slices of Bread cubed and left out Over Night
+- 3 Slices of Bread cubed and left out Overnight
 - 2 Eggs
 - 1/2 pound Bacon Strips
 - 1 container Sour Cream
