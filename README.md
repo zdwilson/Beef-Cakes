@@ -1,6 +1,8 @@
 Beef-Cakes
 ==========
+
 .. image:: https://github.com/bmoregeo/Beef-Cakes/blob/master/assets/pictures/2012-04-10_19-35-17_22.jpg
+
 A recipe for a delicious beefy snack.  Beef Cakes are basically meat loaf cooked in single serving cup cake tins.  However, they allow a greater level of customization with toppings and ingredients.
 
 Rationale
