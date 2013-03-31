@@ -15,6 +15,7 @@ Ingredients
 - 1/2 pound Bacon Strips
 - 1 container Sour Cream
 - Chives
+- Cayenne Pepper 
 
 Tools
 ----------
@@ -37,3 +38,7 @@ Process
 9. Tent the cupcake tin with aluminum foil and throw it in the oven.
 10. Bake at 350 degrees for 45 minutes.
 11. Uncover and bake for another 15 minutes or until center of Beef Cake is 165 degrees.
+12. Let them bad boys cool for 10-15 minutes.
+13. Using the tong, pull the Beef Cakes and place them on a serving tray.
+14. Frost the Beef Cakes with sour cream and sprinkle with diced chives and cayenne pepper.
+15. Serve!
